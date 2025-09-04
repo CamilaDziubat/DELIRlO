@@ -198,9 +198,9 @@ $ npx Sisten
 
 # 🚀 Meu Perfil de Desenvolvedora
   
-<!START_SECTION:waka
+START_SECTION:waka
 
-```rust
+```rust 
 Total Time: 189 hrs 30 mins
 
 JavaScript   92 hrs 45 mins  ▰▰▰▰▰▰▰▰▰▰▰▰▱▱▱▱▱▱▱▱▱▱▱▱▱   48.69 %
