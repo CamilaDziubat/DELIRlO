@@ -69,12 +69,10 @@
       <pre>
 ┌──┤ <span style="color:#FF00FF">SOCIAL</span> ├─────────────▰▰▰
 │
-├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16"/> <a href="https://twitter.com/ysneshy">Twitter</a> <small></small>
-├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/> <a href="https://youtube.com/@comediante623">YouTube</a> <small></small>
-├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="16"/> <a href="https://t.me/ysneshy">Telegram</a> <small></small>
-├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16"/> <a href="https://linkedin.com/in/ysneshy">LinkedIn</a> <small></small>
-├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="16"/> <a href="https://instagram.com/ysneshy">Instagram</a> <small></small>
-├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16"/> <a href="https://carlosfilho.vercel.app">Site</a> <small></small>
+<!--├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16"/> <a href="https://twitter.com/ysneshy">Twitter</a> <small>-->
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16"/> <a href="www.linkedin.com/in/camila-dziubat">LinkedIn</a> <small></small>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="16"/> <a href="https://instagram.com/camila.dziubat">Instagram</a> <small></small>
+<!--├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16"/> <a href="https://carlosfilho.vercel.app">Site</a> <small></small>-->
 │
 └────────────────────────────▰▰▰
       </pre>
@@ -83,12 +81,12 @@
       <pre>
 ┌──┤ <span style="color:#00FFFF">PROJECTS</span> ├──────────▰▰▰
 │
-├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/>+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16"/> <a href="https://github.com/delirlo/portfolio-carlos-filho">Portfolio</a>
-├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16"/>+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16"/> <a href="https://github.com/delirlo/wordinvert">WordInvert</a>
-├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16"/>+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="16"/> <a href="https://github.com/DELIRlO/guiafrontend-main">Front-end</a>
-├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16"/>+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="16"/> <a href="https://github.com/DELIRlO/guiadobackend-main">Back-end</a>
-├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="16"/>+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16"/> <a href="https://github.com/DELIRlO/cafe-juju-maint">Cafe-Juju</a>
-├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="16"/>+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/> <a href="https://github.com/DELIRlO/PythonRobotics-master">Robótica</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16"/>+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16"/> <a href="">Portfolio</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="16"/>+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16"/> <a href="">WordInvert</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="16"/>+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="16"/> <a href="">Front-end</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16"/>+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="16"/> <a href="">Back-end</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="16"/>+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16"/> <a href="">Cafe-Juju</a>
+├─▣ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="16"/>+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16"/> <a href="">Robótica</a>
 │
 └───────────────────────────▰▰▰
       </pre>
@@ -159,13 +157,13 @@
  <table><tr><td>
 🏆 Meus Amigos do GitHub 🌟🌟🌟🌟🌟
 
-<a href="https://github.com/amigo1"><img src="https://github.com/amigo1.png" width="75" style="border-radius:30%"></a>
+<!--<a href="https://github.com/amigo1"><img src="https://github.com/amigo1.png" width="75" style="border-radius:30%"></a>
 <a href="https://github.com/iagocavalcante"><img src="https://github.com/iagocavalcante.png" width="75" style="border-radius:30%"></a>
 <a href="https://github.com/alfa-m"><img src="https://github.com/alfa-m.png" width="75" style="border-radius:30%">
 <a href="https://github.com/ipqwery"><img src="https://github.com/ipqwery.png" width="75" style="border-radius:30%">
 <a href="https://github.com/kbmbarreto"><img src="https://github.com/kbmbarreto.png" width="75" style="border-radius:30%">
 <a href="https://github.com/Reistr12"><img src="https://github.com/Reistr12.png" width="75" style="border-radius:30%">
-<a href="https://github.com/lloonne"><img src="https://github.com/lloonne.png" width="75" style="border-radius:30%">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;
+<a href="https://github.com/lloonne"><img src="https://github.com/lloonne.png" width="75" style="border-radius:30%">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; -->
 <!-- fim -->
 </td>
 </tr>
@@ -183,7 +181,7 @@
 <td>
 
 ```bash
-$ npx DELIRIO
+$ npx Sisten
 > 🔍 Analisando seu perfil...
 > ✅ 89% compatível com Cyberpunk Mode!
 ```
@@ -198,9 +196,9 @@ $ npx DELIRIO
 <details>
   <summary><b>:rocket: &nbsp;Tempo de programacao click no foguete >:(</b></summary>
 
-# 🚀 Meu Perfil de Desenvolvedor
+# 🚀 Meu Perfil de Desenvolvedora
   
-<!--START_SECTION:waka-->
+<!START_SECTION:waka
 
 ```rust
 Total Time: 189 hrs 30 mins
@@ -222,8 +220,8 @@ Other        59 mins         ▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱▱
 ---
 
 ## 📌 Contato
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ysneshy@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ysneshy)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:goncalvesscamilla07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/camila.dziubat)
 
   
 
