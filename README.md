@@ -2,7 +2,7 @@
 <!-- lepo -->
 <!-- Efeito de terminal hacker -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=750&size=24&duration=4000&pause=1000&color=e61c9b&center=true&vCenter=true&width=600&lines=SEJA+BEM+VINDO+(A)+DEV" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=750&size=24&duration=4000&pause=1000&color=e61c9b&center=true&vCenter=true&width=600&lines=SEJA+BEM+VINDO+(A)+DEV!!" alt="Typing animation" />
 </div>
 <!-- lepo -->
 <table width="1260px">
@@ -12,8 +12,8 @@
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0243.gif?raw=true" width="21" />&nbsp;&nbsp;**I'm a computer engineer Front end developer, I from Brasil** 🇧🇷
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0451.gif?raw=true" width="21" />&nbsp;&nbsp;**I'm here to learn and my interests are programming and data reading**
 - <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif?raw=true" width="21" />&nbsp;&nbsp;**I am working: ``` NodeJS | JavaScript | CSS3 | Power BI | Laravel | Godot | Flutter | PHP | Python | React | Java | C# | Ruby |```
-- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif?raw=true" width="21" />&nbsp;&nbsp;**Meu Portifolio**:&nbsp;&nbsp; <a href="https://carlosfilho.vercel.app" target="_blank"><img src="https://uploads-ssl.webflow.com/5e4ecb625c12865d1fa376c6/617866244c93037434c4740a_962-social-media-marketing-outline.gif?raw=true" width="21" target="_blank"/></a><a href="https://carlosfilho.vercel.app" alt="Portfolio">
-  <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=FFF&link=https://www.carlosfilho.vercel.app/"/>
+- <img src="https://www.imagensanimadas.com/data/media/56/computador-imagem-animada-0455.gif?raw=true" width="21" />&nbsp;&nbsp;**Meu Portifolio**:&nbsp;&nbsp; <a href="" target="_blank"><img src="" width="21" target="_blank"/></a><a href="" alt="Portfolio">
+  <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=FFF&link="/>
  </a></td></tr></table>
 <!-- tabela 1 em evidencia -->
   <table width="100%" style="border-collapse: collapse; border: none; table-layout: fixed;">
@@ -35,17 +35,15 @@
 <!-- ola -->
 
 ![python](https://img.shields.io/badge/-Python-4F5D95?style=flat&logoColor=fff&logo=python)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-369?style=flat&logoColor=fff&logo=php)&nbsp;
-![Quasar](https://img.shields.io/badge/-Quasar-1976D1?style=flat&logoColor=fff&logo=quasar)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
-<a href="http://carlosfilho.vercel.app"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
+<a href=""><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
 ![react](https://img.shields.io/badge/-React-098196?style=flat&logoColor=fff&logo=React)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue.js-41BA82?style=flat&logoColor=fff&logo=vue.js)&nbsp;
 ![Node](https://img.shields.io/badge/-Node.js-5B9856?style=flat&logoColor=fff&logo=node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![flutter](https://img.shields.io/badge/-flutter-e44d26?style=flat&logoColor=fff&logo=flutter)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-ff0000?style=flat&logoColor=fff&logo=C++)&nbsp;
-<!-- ![Css3](https://img.shields.io/badge/-CSS3-099cec?style=flat&logoColor=fff&logo=css3)&nbsp; -->                                
+![Css3](https://img.shields.io/badge/-CSS3-099cec?style=flat&logoColor=fff&logo=css3)&nbsp;                               
     
 <table width="100%" style="border-collapse: collapse; border: none; table-layout: fixed;">
   <tr>
