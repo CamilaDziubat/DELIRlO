@@ -140,7 +140,7 @@
 <!-- coluna de linguagem -->
 <div align="center">
   
-  [![delirlo github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![delirlo github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/CamilaDziubat/github-readme-activity-graph)
 <!-- [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=delirlo&theme=github-dark&bg_color=0d1117&hide_border=true)](https://github.com/delirlo) -->
 <!--cobrinha -->
 <!-- <picture align="center">
